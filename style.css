@@ -1,0 +1,33 @@
+h2{
+    color: #a116c4;
+}
+h1{
+    color: #0e0f5c;
+}
+
+body {
+    background-color: #45a9bbfb;
+    font-family: roman;
+    text-align: center;
+    P{
+        color: white;
+        
+    }
+}
+header {
+    border-bottom:3px solid #671686
+}
+
+footer{
+    border: 3px solid #0b6177ea;
+}
+
+#nome-usuário {
+
+    font-weight: bold;
+}
+
+.texto-matemático {
+
+    font-style: italic;
+}
